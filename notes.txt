@@ -1,0 +1,36 @@
+HTML Elements 
+
+opening <h1> 
+
+closing </h1> 
+
+higher number higher priority over other statements 
+
+<h1> main headings </h1>
+
+<h2> sub headings </h2>
+
+paragraphs <p> </p>
+
+all html tags are written in lowercase 
+
+ipsum text as a placeholder text.
+
+<!-- --> comments 
+
+HTML5 introduces more descriptive HTML tags. These include main, header, footer, nav, video, article, section and others.
+
+
+add image to your website 
+
+<img src="">
+
+example: <img src="https://www.freecatphotoapp.com/your-image.jpg">
+
+Link to External Pages with Anchor Elements
+
+You can use the anchor elements to link to content externally from your main website/page 
+
+<a href="https://www.freecodecamp.org">this links to freecodecamp.org</a>
+
+
